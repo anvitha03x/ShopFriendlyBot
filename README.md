@@ -2,6 +2,7 @@
 The bot collects user input, filters through a phone database (scraped using an RPA Bot), and sends a text file with the best matches, including links for purchase.
 
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨:
+
 ✓ Collect user preferences (email, budget, brand, rating).
 ✓ Filter phones based on the user's criteria (brand, rating, budget) using Excel.
 ✓ Dataset collected through web scraping using an RPA Bot.
