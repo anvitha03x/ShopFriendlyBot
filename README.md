@@ -1,4 +1,4 @@
-# ShopFriendlyBot
+# ShopFriendlyBot using UIPath Studio
 The bot collects user input, filters through a phone database (scraped using an RPA Bot), and sends a text file with the best matches, including links for purchase.
 
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨:
